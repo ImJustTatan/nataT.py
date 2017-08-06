@@ -1,14 +1,16 @@
 ### nataT.py
 
+[![Chat on discord](https://img.shields.io/badge/chat-on%20discord-blue.svg "Tatan's server")](https://discord.gg/sUBbBvx) ![Bot version](https://img.shields.io/badge/version-v0.3-brightgreen.svg "Bot version")
+
 ***
 
-**Note:** nataT.py is a complete rewrite from zero of [nataTbot](https://github.com/ImJustTatan/nataTbot), (obviously) coded with Python 3 ([discord.py](https://github.com/Rapptz/discord.py), to be more specific). More info [below](https://github.com/ImJustTatan/nataT.py#about-the-change).
+**Note:** nataT.py is a complete rewrite from zero of [nataTbot](https://github.com/ImJustTatan/nataTbot), (obviously) coded with Python 3 ([discord.py](https://github.com/Rapptz/discord.py), to be more specific). More info [below](#about-the-change).
 
 ---
 
 ## A synopsis (again)
 
-nataT is the first bot I've made and my first ever code project (which is the reason why the deprecated version was so messy and non-humanly-readable). It is pretty important for me since (from others' opinions) I can say that nataT is a pretty good bot to mess with. If you wanna see it in action, you can join my [Discord server](https://discord.gg/sUBbBvx). If you wanna build your own nataT, oh boy... Just see [below](https://github.com/ImJustTatan/nataT.py#building).
+nataT is the first bot I've made and my first ever code project (which is the reason why the deprecated version was so messy and non-humanly-readable). It is pretty important for me since (from others' opinions) I can say that nataT is a pretty good bot to mess with. If you wanna see it in action, you can join my [Discord server](https://discord.gg/sUBbBvx). If you wanna build your own nataT, oh boy... Just see [below](#building).
 
 ---
 
@@ -34,7 +36,8 @@ These are the requirements:
 
 - Python 3.5+
 - discord.py module (`pip install -U discord.py`)
-- git (to clone, you can download the code [from here](https://github.com/ImJustTatan/nataT.py/archive/master.zip) as a .zip file if you're lazy enough to not care about it)
+- termcolor module (`pip install -U termcolor`)
+- git (to clone, but you can download the code [from here](archive/master.zip) as a .zip file if you're lazy enough to not care about it)
 - A Discord bot user. There are dozens of tutorials for this, but you can read [this one](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) if you want it simple. Special thanks to [reactiflux](https://github.com/reactiflux/) for making it.
 
 Seems like not much, right? Let's build it then. First things first, clone this repo:
