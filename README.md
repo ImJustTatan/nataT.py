@@ -37,7 +37,7 @@ These are the requirements:
 - Python 3.5+
 - discord.py module (`pip install -U discord.py`)
 - termcolor module (`pip install -U termcolor`)
-- git (to clone, but you can download the code [from here](archive/master.zip) as a .zip file if you're lazy enough to not care about it)
+- git (to clone, but you can download the code [from here](https://github.com/ImJustTatan/nataT.py/archive/master.zip) as a .zip file if you're lazy enough to not care about it)
 - A Discord bot user. There are dozens of tutorials for this, but you can read [this one](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) if you want it simple. Special thanks to [reactiflux](https://github.com/reactiflux/) for making it.
 
 Seems like not much, right? Let's build it then. First things first, clone this repo:
