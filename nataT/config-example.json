@@ -3,6 +3,7 @@
 	"bot_id": "18329647893",
 	"version": "v1.4",
 	"mods_id": "3275092375",
+	"owner_id": "2485792455",
 	"admins_id": "384567547",
 	"podsquad_id": "456476547" // delete if you want, this is for a specific role in my server, just be sure to also delete every use of this in nataT.py
 }

@@ -2,19 +2,22 @@
 # Sensitive stuff #
 ###################
 
-config.json
+nataT/config.json
+nataT/plugins/
 
 ##########
 # Log(s) #
 ##########
 
 *.log
+nataT/*.log
 
 #######
 # Vim #
 #######
 
 *.swp
+nataT/*.swp
 
 ##########
 # Python #
@@ -79,6 +82,7 @@ ENV/
 # TRASH #
 #########
 
+nataT/plugins/__pycache__/
 .DS_Store
 .DS_Store?
 ._*
