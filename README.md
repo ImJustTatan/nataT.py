@@ -1,3 +1,5 @@
+# deprecated once again lol
+
 ### nataT.py
 
 [![Chat on discord](https://img.shields.io/badge/chat-on%20discord-blue.svg "Tatan's server")](https://discord.gg/sUBbBvx) ![Bot version](https://img.shields.io/badge/version-v0.3-brightgreen.svg "Bot version")
